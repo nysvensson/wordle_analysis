@@ -1,2 +1,2 @@
 # wordle_analysis
-Analysis of Wordle corpus
+Short iPython notebook determines the two best starting words based on their likelihood of generating "green" hits with no letter overlap
